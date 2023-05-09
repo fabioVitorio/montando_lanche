@@ -1,4 +1,4 @@
-# *Projeto Montando o Lanche*
+# ⚙️ *Projeto Montando o Lanche*
 >✅Primeiro Projeto com Vue.JS
 
 <div>
