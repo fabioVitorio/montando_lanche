@@ -1,5 +1,5 @@
 # ⚙️ *Projeto Montando o Lanche*
->✅Vue.JS <br>
+>✅Framework Vue.JS <br>
 >✅DOM <br>
 
 <div>
