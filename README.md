@@ -1,5 +1,6 @@
 # ⚙️ *Projeto Montando o Lanche*
->✅Primeiro Projeto com Vue.JS
+>✅Vue.JS <br>
+>✅DOM <br>
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=montando_lanche"/>
