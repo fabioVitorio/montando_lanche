@@ -1,4 +1,4 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+# <p align='center'>Assemble 🍔 snack</p>
 <br>
 <p align='center'> First web application with Vue.JS framework. Learning DOM manipulation <br></p>
 
